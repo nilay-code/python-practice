@@ -1,4 +1,3 @@
-
 x = input("Enter a number\n")
 
 x = int(x)
