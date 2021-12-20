@@ -1,6 +1,5 @@
 import random
 
-
 x = input("Please enter a number between 0 and 5\n")
 x=int(x)
 
@@ -14,4 +13,3 @@ def win(x):
         print("Try Again")
 
 win(x)
-
