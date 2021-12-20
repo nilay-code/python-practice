@@ -13,8 +13,6 @@ yo = int(yo)
 y1 = int(y1)
 x1 = int(x1)
 
-
-
 Area = math.pi*math.pow(radius,2)
 Perimeter = 2*math.pi*radius
 
