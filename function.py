@@ -1,3 +1,4 @@
+
 x = input("Enter a number \n")
 
 # x = float(x)
