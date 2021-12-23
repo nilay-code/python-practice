@@ -1,6 +1,5 @@
 
 while True:
-
     word = input("Before reverse: \n")
 
     if word == "done":
@@ -14,5 +13,4 @@ while True:
         reversed=letter+ reversed
 
     print("After reverse:", reversed)
-
 print("Done")
